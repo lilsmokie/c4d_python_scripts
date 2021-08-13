@@ -19,7 +19,8 @@ Here's a script I wrote to make it easy.
 1. Make sure you have a color swatch in the first slot
 2. Run the script 
 3. New material is created with your multishader
-
+  
+![ezgif-4-5d614051666e](https://user-images.githubusercontent.com/88659624/129345743-cfb39cde-cb29-4c25-9f1a-7c0d4300e07c.gif)
 
 </div>
 </div>
