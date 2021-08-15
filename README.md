@@ -27,7 +27,7 @@ Here's a script I wrote to make it easy.
 
 ---
 
-#### [FallOffShader Texture Swap](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/Falloff_Shader_TextureSwap)
+#### [FallOffShader Texture Swap Python](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/Falloff_Shader_TextureSwap)
 
 Switch out textures based on the direction of a light
 
@@ -43,6 +43,18 @@ Switch out textures based on the direction of a light
 A setup to quickly connect groups of points and have an object travel between them.
 
 [![AirPlane](https://user-images.githubusercontent.com/88659624/129479149-d5699dcd-6fc8-44f8-bd37-4b12d66a8ddb.jpg)](https://vimeo.com/587438341/ab62641526)
+
+  
+</div>  
+<div>
+
+---
+
+#### [LineGraph xPresso](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/LineGraph)
+
+This reads the data in the y of a spline and output it to a graph that can be animated.
+
+![lineGraph](https://user-images.githubusercontent.com/88659624/129486320-85e9496c-3a69-48c5-836d-c3efb35927b6.gif)
 
   
 </div>    
