@@ -23,4 +23,16 @@ Here's a script I wrote to make it easy.
 ![ezgif-4-5d614051666e](https://user-images.githubusercontent.com/88659624/129345743-cfb39cde-cb29-4c25-9f1a-7c0d4300e07c.gif)
 
 </div>
+<div>
+
+---
+
+#### [FallOffShader Texture Swap](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/Falloff_Shader_TextureSwap)
+
+Switch out textures based on the direction of a light
+
+![textureSwap](https://user-images.githubusercontent.com/88659624/129478121-27c33ced-947d-4fee-b720-f942000db29f.gif)
+  
+</div>  
+  
 </div>
