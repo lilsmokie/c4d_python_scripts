@@ -57,5 +57,18 @@ This reads the data in the y of a spline and output it to a graph that can be an
 ![lineGraph](https://user-images.githubusercontent.com/88659624/129486320-85e9496c-3a69-48c5-836d-c3efb35927b6.gif)
 
   
+</div>  
+<div>
+
+---
+
+#### [RangeMapperPosition xPresso](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/LineGraph)
+
+Useful simple set up for quickly animating anything with repeating steps.
+
+![rangemapper](https://user-images.githubusercontent.com/88659624/129487029-bdbffe79-4bd6-4b99-8409-ecbcc2cd140f.gif)
+
+
+  
 </div>    
 </div>
