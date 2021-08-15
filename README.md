@@ -1,6 +1,6 @@
 <div>
 
-# lil C4D scripts
+# lil C4D scripts and rigs
 
 Some small scripts for C4D. 
 Hope something is helpful.
