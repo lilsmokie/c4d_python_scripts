@@ -34,5 +34,16 @@ Switch out textures based on the direction of a light
 ![textureSwap](https://user-images.githubusercontent.com/88659624/129478121-27c33ced-947d-4fee-b720-f942000db29f.gif)
   
 </div>  
+<div>
+
+---
+
+#### [AirPlane Python](https://github.com/lilsmokie/c4d_rigs_and_scripts/tree/main/AirPlane_Python)
+
+A setup to quickly connect groups of points and have an object travel between them.
+
+[![AirPlane](https://user-images.githubusercontent.com/88659624/129479149-d5699dcd-6fc8-44f8-bd37-4b12d66a8ddb.jpg)](https://vimeo.com/587438341/ab62641526)
+
   
+</div>    
 </div>
